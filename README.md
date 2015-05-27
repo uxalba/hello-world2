@@ -1,2 +1,2 @@
 # hello-world2
-test
+Just deleted the statement "test", seeing how this craziness works :)
